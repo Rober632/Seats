@@ -31,28 +31,28 @@ img{
 .carousel-caption h2{
     margin: 20px 0 20px 0;
 }
-.ull{
+.sec-2{
     margin-top: 10vh;
     position: relative;
 }
-.ull img{
+.sec-2 img{
     height: 50vh;
     width: 90%;
     margin: auto;
     border-radius: 10px;
 }
-.ull .carousel-caption{
+.sec-2 .carousel-caption{
     top: 20px;
     left: 110px;
     color: black;
 }
 
-.ull h2{
+.sec-2 h2{
     letter-spacing: 2px;
     font-weight:lighter;
     font-size: 50px;
 }
-.ull a{
+.sec-2 a{
     background-color: #34093b;
     margin-top: 170px;
     color: white;
@@ -187,7 +187,6 @@ section{
     margin-bottom: 10px;
 
 }
-
 
 @media only screen and (max-width: 767px){
     .carousel-caption{
